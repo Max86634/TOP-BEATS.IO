@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## HI ТЫ НА САЙТЕ ГДЕ МОЖЕШЬ ЗАКАЗАТЬ БИТ ДЛЯ ТВОЕГО БУДУЩЕГО ХИТА 
 
 Бит можете заказать  [тут](https://github.com/Max86634/music.github.io/edit/gh-pages/index.md) цены от 50 до 300 рублей за бит без сведения!
 
 
 
-### Markdown
+### КАК ЗАКАЗАТЬ БИТ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+все очень просто тебе нужно:
+перейти по ссылке сверху в мой вк и написать мне в личку какой бит хочешь где мы и договоримся о цене и жанре бита.
 
 ```markdown
 Syntax highlighted code block
